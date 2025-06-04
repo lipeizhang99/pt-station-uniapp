@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dayjs": "^1.11.13",
+    "marked": "^15.0.12"
+  }
+}
