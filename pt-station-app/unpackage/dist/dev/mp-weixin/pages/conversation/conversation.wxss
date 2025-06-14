@@ -1,0 +1,60 @@
+
+.container.data-v-e1536a1d {
+        height: 100vh;
+        background: linear-gradient(to bottom, #f0f4f8, #ffffff);
+        padding: 20rpx;
+}
+.sidebar-title.data-v-e1536a1d {
+        font-size: 36rpx;
+        font-weight: 700;
+        color: #333;
+        margin-bottom: 20rpx;
+        padding-left: 10rpx;
+}
+.sidebar-item.data-v-e1536a1d {
+        display: flex;
+        align-items: center;
+        background-color: #ffffff;
+        border-radius: 20rpx;
+        padding: 24rpx;
+        margin-bottom: 20rpx;
+        box-shadow: 0 6rpx 12rpx rgba(0, 0, 0, 0.05);
+        transition: background 0.3s;
+}
+.sidebar-item.data-v-e1536a1d:active {
+        background-color: #e6f7ff;
+}
+.avatar.data-v-e1536a1d {
+        width: 80rpx;
+        height: 80rpx;
+        background: linear-gradient(to right, #4facfe, #00f2fe);
+        color: #fff;
+        font-weight: bold;
+        font-size: 36rpx;
+        text-align: center;
+        line-height: 80rpx;
+        border-radius: 50%;
+        flex-shrink: 0;
+        box-shadow: 0 4rpx 8rpx rgba(0, 0, 0, 0.1);
+}
+.content.data-v-e1536a1d {
+        margin-left: 24rpx;
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+}
+.username.data-v-e1536a1d {
+        font-size: 32rpx;
+        font-weight: 600;
+        color: #333;
+        margin-bottom: 8rpx;
+}
+.last-message.data-v-e1536a1d {
+        color: #888;
+        font-size: 26rpx;
+        line-height: 36rpx;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+}

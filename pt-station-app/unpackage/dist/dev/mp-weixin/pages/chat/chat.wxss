@@ -1,0 +1,88 @@
+
+.container.data-v-0a633310 {
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+        background: #f2f3f5;
+}
+.chat-header.data-v-0a633310 {
+        background: #4a90e2;
+        color: white;
+        font-size: 34rpx;
+        padding: 30rpx;
+        font-weight: bold;
+        text-align: center;
+        box-shadow: 0 4rpx 8rpx rgba(0, 0, 0, 0.1);
+}
+.chat-messages.data-v-0a633310 {
+        flex: 1;
+        padding: 24rpx;
+        overflow-y: scroll;
+        background: #f2f3f5;
+}
+.no-messages.data-v-0a633310 {
+        text-align: center;
+        color: #999;
+        margin-top: 100rpx;
+        font-size: 28rpx;
+}
+.chat-message.data-v-0a633310 {
+        display: flex;
+        flex-direction: column;
+        max-width: 95%;
+        margin-bottom: 30rpx;
+        word-break: break-word;
+}
+.chat-message.left.data-v-0a633310 {
+        align-self: flex-start;
+        align-items: flex-start;
+}
+.chat-message.right.data-v-0a633310 {
+        align-self: flex-end;
+        align-items: flex-end;
+}
+.bubble.data-v-0a633310 {
+        padding: 20rpx 28rpx;
+        border-radius: 28rpx;
+        font-size: 28rpx;
+        background: #ffffff;
+        box-shadow: 0 4rpx 8rpx rgba(0, 0, 0, 0.06);
+}
+.chat-message.right .bubble.data-v-0a633310 {
+        background: #4a90e2;
+        color: white;
+}
+.timestamp.data-v-0a633310 {
+        font-size: 20rpx;
+        color: #aaa;
+        margin-top: 10rpx;
+}
+.chat-input.data-v-0a633310 {
+        display: flex;
+        padding: 20rpx;
+        border-top: 1px solid #ddd;
+        background: #fff;
+        align-items: center;
+}
+.chat-textarea.data-v-0a633310 {
+        flex: 1;
+        border: 1px solid #ccc;
+        border-radius: 20rpx;
+        padding: 16rpx 20rpx;
+        font-size: 28rpx;
+        background: #f9f9f9;
+}
+button.data-v-0a633310 {
+        margin-left: 20rpx;
+        padding: 16rpx 32rpx;
+        background: #4a90e2;
+        color: white;
+        font-size: 28rpx;
+        border: none;
+        border-radius: 20rpx;
+        transition: opacity 0.2s;
+}
+button.data-v-0a633310:disabled {
+        background: #ccc;
+        opacity: 0.7;
+}

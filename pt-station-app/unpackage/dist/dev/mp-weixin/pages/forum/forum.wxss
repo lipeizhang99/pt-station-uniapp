@@ -1,0 +1,92 @@
+
+.container.data-v-aeadbf01 {
+        padding: 20rpx;
+}
+.tab-bar.data-v-aeadbf01 {
+        display: flex;
+        justify-content: space-around;
+        margin-bottom: 20rpx;
+}
+.tab-item.data-v-aeadbf01 {
+        padding: 10rpx 20rpx;
+        color: #666;
+        border-bottom: 4rpx solid transparent;
+}
+.tab-item.active.data-v-aeadbf01 {
+        color: #1afa29;
+        border-color: #1afa29;
+}
+.carousel.data-v-aeadbf01 {
+        height: 300rpx;
+        margin-bottom: 20rpx;
+}
+.carousel-img.data-v-aeadbf01 {
+        width: 100%;
+        height: 100%;
+        border-radius: 12rpx;
+}
+.carousel-title.data-v-aeadbf01 {
+        position: absolute;
+        bottom: 20rpx;
+        left: 20rpx;
+        background: rgba(0, 0, 0, 0.5);
+        padding: 10rpx;
+        border-radius: 8rpx;
+        color: #fff;
+}
+.notify.data-v-aeadbf01 {
+        background: #f4f4f4;
+        padding: 20rpx;
+        border-radius: 10rpx;
+        margin-bottom: 20rpx;
+}
+.notify-title.data-v-aeadbf01 {
+        font-weight: bold;
+        margin-bottom: 10rpx;
+}
+.notify-item.data-v-aeadbf01 {
+        font-size: 24rpx;
+        margin-bottom: 6rpx;
+}
+.post-card.data-v-aeadbf01 {
+        background: #fff;
+        padding: 20rpx;
+        border-radius: 12rpx;
+        box-shadow: 0 2rpx 6rpx rgba(0, 0, 0, 0.05);
+        margin-bottom: 20rpx;
+}
+.post-title.data-v-aeadbf01 {
+        font-size: 30rpx;
+        font-weight: bold;
+        margin-bottom: 10rpx;
+}
+.post-meta.data-v-aeadbf01 {
+        color: #888;
+        font-size: 24rpx;
+}
+.load-status.data-v-aeadbf01 {
+        text-align: center;
+        color: #999;
+        margin-top: 20rpx;
+}
+.search-bar.data-v-aeadbf01 {
+        display: flex;
+        gap: 10rpx;
+        margin-bottom: 20rpx;
+}
+.input.data-v-aeadbf01 {
+        flex: 1;
+        padding: 10rpx;
+        height: 100%;
+        font-size: 28rpx;
+        border: 1rpx solid #ccc;
+        border-radius: 8rpx;
+        box-sizing: border-box;
+}
+.btn.data-v-aeadbf01 {
+        font-size: 28rpx;
+        background-color: #1afa29;
+        color: white;
+        border: none;
+        border-radius: 8rpx;
+}

@@ -1,0 +1,29 @@
+
+.container.data-v-c9f7182c {
+        padding: 30rpx;
+}
+.music-info.data-v-c9f7182c {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+}
+.cover.data-v-c9f7182c {
+        width: 300rpx;
+        height: 300rpx;
+        border-radius: 20rpx;
+        margin-bottom: 20rpx;
+}
+.title.data-v-c9f7182c {
+        font-size: 32rpx;
+        font-weight: bold;
+}
+.artist.data-v-c9f7182c {
+        font-size: 28rpx;
+        color: #999;
+}
+.controls.data-v-c9f7182c {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin: 40rpx 0;
+}

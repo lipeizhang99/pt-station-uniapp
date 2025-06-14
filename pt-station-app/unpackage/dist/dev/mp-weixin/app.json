@@ -1,0 +1,44 @@
+{
+  "pages": [
+    "pages/forum/forum",
+    "pages/user/user",
+    "pages/post-detail/post-detail",
+    "pages/login/login",
+    "pages/music/music",
+    "pages/conversation/conversation",
+    "pages/chat/chat"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#1afa29",
+    "backgroundColor": "#FFFFFF",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/forum/forum",
+        "iconPath": "static/icons/forum.png",
+        "selectedIconPath": "static/icons/forum-selected.png",
+        "text": "论坛"
+      },
+      {
+        "pagePath": "pages/conversation/conversation",
+        "iconPath": "static/icons/message.png",
+        "selectedIconPath": "static/icons/message-selected.png",
+        "text": "私信"
+      },
+      {
+        "pagePath": "pages/user/user",
+        "iconPath": "static/icons/user.png",
+        "selectedIconPath": "static/icons/user-selected.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

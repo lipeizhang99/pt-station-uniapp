@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@dcloudio/uni-ui": "^1.5.7",
+    "dayjs": "^1.11.13",
+    "marked": "^15.0.12",
+    "uview-ui": "^2.0.38"
+  }
+}
